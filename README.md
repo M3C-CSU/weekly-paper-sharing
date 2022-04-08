@@ -1,4 +1,4 @@
-# Weekly parper sharing
+# Weekly paper sharing
 
 - [论文分享周会名单](#weekly-paper-sharing)
 
