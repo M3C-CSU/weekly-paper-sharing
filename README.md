@@ -6,6 +6,7 @@
 | --------- |:-------:| ---------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
 | 2022.04.28 | 王玉锋      |  |||
 | 2022.04.21 | 王歌睿      |  |||
+| 2022.04.18 | 谢宇菲      | Medical image synthesis | | [sides](./PPT/xie.pptx) |
 | 2022.04.14 | 唐晟      | Self-supervised learning | [Attention-Aligned Transformer for Image Captioning (*AAAI-2022*)](https://www.aaai.org/AAAI22Papers/AAAI-1018.FeiZ.pdf)| [A²Transformer](./PPT/Attention-aligned%20Transformer%20for%20image%20captioning.pptx) |
 | 2022.04.07 | 杨腾      | Medical Image-to-Image |[Breaking the Dilemma of Medical Image-to-image Translation(*NIPS2021*)](https://arxiv.org/abs/2110.06465v2)|[MI2I](./PPT/Medical_image-to-image_translation.pptx)|
 | 2022.03.31 | 马睿      | Airway semantic segmentation | [SGNet: Structure-Aware Graph-Based Network for Airway Semantic Segmentation (*MICCAI-2021*) ](https://link.springer.com/content/pdf/10.1007/978-3-030-87193-2_15.pdf)                                                                                                                       |     |
