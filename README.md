@@ -4,7 +4,7 @@
 
 | Date      | Speaker | Theme                        | Paper                                                                                                                                                                                                                                                                                        | PPT |
 | --------- |:-------:| ---------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
-| 2022.09.08 | 陈思玉      |  |  | |
+| 2022.09.11 | 陈思玉      |  |  | |
 | 2022.07.07 | 王歌睿      | Multi-task Learning | [Modeling Task Relationships in Multi-task Learning with Multi-gate Mixture-of-Experts(*KDD2018*)](https://dl.acm.org/doi/pdf/10.1145/3219819.3220007) |[slides](./PPT/7-7.pptx)|
 | 2022.06.23 | 杨腾 | Residual Vision Transformer    | [ResViT: Residual vision transformers for multi-modal medical image synthesis (TMI 2022)](https://arxiv.org/abs/2106.16031)       | [slides](./PPT/2022-6-23-ResViT.pptx)  |
 | 2022.06.16 |       | Local Vision Transformer    | [3D Shuffle-Mixer: an efficient context-aware vision learner of transformer-MLP paradigm for dense prediction in medical volume (*TMI submission*) ](https://paperswithcode.com/paper/3d-shuffle-mixer-an-efficient-context-aware)       | [slides](./PPT/2022-6-16-3D%20Shuffle-Mixer.pptx)  |
