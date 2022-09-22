@@ -4,8 +4,7 @@
 
 | Date      | Speaker | Theme                        | Paper                                                                                                                                                                                                                                                                                        | PPT |
 | --------- |:-------:| ---------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
-| 2022.09.24 | 徐博      | Multi-Domain Long-Tailed Recognition | [On Multi-Domain Long-Tailed Recognition,
-Imbalanced Domain Generalization and Beyond (ECCV 2022)](https://arxiv.org/pdf/2203.09513.pdf) |[slides](./PPT/2022-09-24.pptx)|
+| 2022.09.24 | 徐博      | Multi-Domain Long-Tailed Recognition | [On Multi-Domain Long-Tailed Recognition,Imbalanced Domain Generalization and Beyond (ECCV 2022)](https://arxiv.org/pdf/2203.09513.pdf) |[slides](./PPT/2022-09-24.pptx)|
 | 2022.09.17 | 陈思玉      | Zero-Shot Learning | [Semantics Disentangling for Generalized Zero-Shot Learning (ICCV 2021)](https://openaccess.thecvf.com/content/ICCV2021/html/Chen_Semantics_Disentangling_for_Generalized_Zero-Shot_Learning_ICCV_2021_paper.html) |[slides](./PPT/2022-09-17.pptx)|
 | 2022.07.07 | 王歌睿      | Multi-task Learning | [Modeling Task Relationships in Multi-task Learning with Multi-gate Mixture-of-Experts(*KDD2018*)](https://dl.acm.org/doi/pdf/10.1145/3219819.3220007) |[slides](./PPT/7-7.pptx)|
 | 2022.06.23 | 杨腾 | Residual Vision Transformer    | [ResViT: Residual vision transformers for multi-modal medical image synthesis (TMI 2022)](https://arxiv.org/abs/2106.16031)       | [slides](./PPT/2022-6-23-ResViT.pptx)  |
