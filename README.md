@@ -4,6 +4,8 @@
 
 | Date      | Speaker | Theme                        | Paper                                                                                                                                                                                                                                                                                        | PPT |
 | --------- |:-------:| ---------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
+| 2022.10.08 | 吴章跃      | Multimodal Token Fusion for Vision Transformers  | [Multimodal Token Fusion for Vision Transformers  (CVPR 2022)](https://arxiv.org/pdf/2204.08721.pdf) |[slides](./PPT/20221008-wzy.pptx)|
+| 2022.10.08 | 杨腾      |     | []() |[slides](./PPT/)|
 | 2022.10.03 | 郗梓钧      | ViT with Weakly Supervised learning | [PicT: A Slim Weakly Supervised Vision Transformer for Pavement Distress Classification (*ACM-MM 2022*)](https://arxiv.org/pdf/2209.10074.pdf) |[slides](./PPT/2022-10-3.pptx)|
 | 2022.09.24 | 徐博      | Multi-Domain Long-Tailed Recognition | [On Multi-Domain Long-Tailed Recognition,Imbalanced Domain Generalization and Beyond (ECCV 2022)](https://arxiv.org/pdf/2203.09513.pdf) |[slides](./PPT/2022-09-24.pptx)|
 | 2022.09.17 | 陈思玉      | Zero-Shot Learning | [Semantics Disentangling for Generalized Zero-Shot Learning (ICCV 2021)](https://openaccess.thecvf.com/content/ICCV2021/html/Chen_Semantics_Disentangling_for_Generalized_Zero-Shot_Learning_ICCV_2021_paper.html) |[slides](./PPT/2022-09-17.pptx)|
