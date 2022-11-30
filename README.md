@@ -1,5 +1,6 @@
 # Weekly paper sharing
-
+# Paper reading讲解的时候要深入浅出，确保自己看懂了，再用通俗的话讲出来让听者听懂。关键是把文章工作讲清楚，包括背景，研究现状，motivation，方法，实验是否支撑，该工作的优点和缺点，对你个人工作的启发。最重要的是后面两部分，需要你自己对工作批判性的阅读。
+# 听希望都能够提前把分享的paper进行相关背景的了解，积极提出问题及参与讨论。
 - [Weekly paper sharing](#weekly-paper-sharing)
 
 | Date       | Speaker | Theme                                           | Paper                                                                                                                                                                                                                                                                                        | PPT                                                                                    |
