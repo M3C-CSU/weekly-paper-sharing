@@ -4,10 +4,10 @@
 - 听希望都能够提前把分享的paper进行相关背景的了解，积极提出问题及参与讨论。
 - [Weekly paper sharing](#weekly-paper-sharing)  
 
-
 | Date       | Speaker | Theme                                           | Paper                                                                                                                                                                                                                                                                                        | PPT                                      |  
 
 |------------| :-----: | ------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------|
+
 | 2023.11.11 | 戚建宇    | Image Translation | [Unsupervised Medical Image Translation with Adversarial  Diffusion Models(*IEEE TMI 2023*)](https://arxiv.org/pdf/2207.08208.pdf)                     | [slides](./PPT/2023-11.11-Qjy.pptx)    |
 | 2023.11.11 |  杨阿婷   | Connectivity-based Segmentation                       | [Directional Connectivity-based Segmentation of Medical Images (*CVPR 2023*)](https://openaccess.thecvf.com/content/CVPR2023/papers/Yang_Directional_Connectivity-Based_Segmentation_of_Medical_Images_CVPR_2023_paper.pdf)                     | [slides](./PPT/2023-11-11-yat.pptx)   |  
 | 2023.10.28 |  刘寰驰   | Self-supervised Vessel Segmentation     | [Diffusion Adversarial Representation Learning for Self-supervised Vessel Segmentation (*ICLR 2023*)](https://arxiv.org/pdf/2209.14566.pdf)                     | [slides](./PPT/2023-10-28-lhc.pptx)    
