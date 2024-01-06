@@ -1,4 +1,4 @@
-![image](https://github.com/M3C-CSU/weekly-paper-sharing/assets/97585627/7cf02679-6579-42a4-a211-43dffe3461a3)# Guideline:
+# Guideline:
 
 - Paper reading讲解的时候要深入浅出，确保自己看懂了，再用通俗的话讲出来让听者听懂。关键是把文章工作讲清楚，包括背景，研究现状，motivation，方法，实验是否支撑，该工作的优点和缺点，对你个人工作的启发。最重要的是后面两部分，需要你自己对工作批判性的阅读。
 - 听希望都能够提前把分享的paper进行相关背景的了解，积极提出问题及参与讨论。
@@ -6,7 +6,7 @@
 
 | Date       | Speaker | Theme                                           | Paper                                                                                                                                                                                                                                                                                        | PPT                                                                                    |
 | ---------- | :-----: | ----------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
-| 2024.01.06 | 戚建宇| Image Translation | [Structure-Preserving Synthesis: MaskGAN for Unpaired MR-CT Translation(*IEEE MICCAI 2023*)]((https://link.springer.com/chapter/10.1007/978-3-031-43999-5_6)) | [slides](./PPT/2024-01.06.pptx) |
+| 2024.01.06 | 戚建宇| Image Translation |  [Structure-Preserving Synthesis: MaskGAN for Unpaired MR-CT Translation(*IEEE MICCAI 2023*)](https://link.springer.com/chapter/10.1007/978-3-031-43999-5_6)   | [slides](./PPT/2024-01.06.pptx) |
 | 2024.01.06 |  杨靖 | Domain Generalization                           | [CDDSA: Contrastive Domain Disentanglement and Style Augmentation for GeneralizableMedical Image Segmentation (*MedIA*)](https://www.sciencedirect.com/science/article/pii/S1361841523001640)                               | [slides](./PPT/2024-1-6-yj.pptx)                                            |
 | 2023.12.22 |  王振行 | Long-tail Recognition                           | [Long-Tailed Visual Recognition via Self-Heterogeneous Integration With Knowledge Excavation (*CVPR 2023*)](https://openaccess.thecvf.com/content/CVPR2023/html/Jin_Long-Tailed_Visual_Recognition_via_Self-Heterogeneous_Integration_With_Knowledge_Excavation_CVPR_2023_paper.html)                               | [slides](./PPT/2023.12.23_wzh.pptx)                                            |
 | 2023.12.22 |  刘寰驰 | Multi-task Learning                        | [An Anatomy- and Topology-Preserving Framework for Coronary Artery Segmentation (*TMI 2023*)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10265156)                                                                                             | [slides](./PPT/2023-12-23-lhc.pptx)   |
