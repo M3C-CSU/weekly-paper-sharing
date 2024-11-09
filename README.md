@@ -9,7 +9,7 @@
 | 2024.11.10 |  邓恒章   |   Vision-Language Framework For Long-tailed Recognition  | [Learning Transferable Visual Models From Natural Language Supervision(*ICML 2021*)](https://arxiv.org/abs/2103.00020)
  & [VL-LTR: Learning Class-wise Visual-Linguistic Representation for Long-Tailed Visual Recognition(*ECCV 2022*)](https://link.springer.com/chapter/10.1007/978-3-031-19806-9_5)
  & [Uniformly Distributed Category Prototype-Guided Vision-Language Framework for Long-Tail Recognition(*ACMMM 2023*)](https://dl.acm.org/doi/pdf/10.1145/3581783.3611904)
-| [sildes](./PPT/2024-11-10-dhz.pptx)
+| [sildes](./PPT/2024-11-10-dhz.pptx)|
 | 2024.10.26 |  郭熊   |   LLM generate concept in CBM   | [Language in a Bottle: Language Model Guided Concept Bottlenecks for Interpretable Image Classification(*CVPR 2023*)](https://cvpr.thecvf.com/virtual/2023/poster/21606)   | [slides](./PPT/2024-10.26_gx.pptx) 
 | 2024.10.19 |  张津华   |   Causal-Invariance-Driven_Segmentation_Model   | [A_Generalizable_Causal-Invariance-Driven_Segmentation_Model_for_Peripancreatic_Vessels(*TMI 2024*)](https://ieeexplore.ieee.org/document/10530125)   | [slides](./PPT/2024-10.19_Zjh.pptx) 
 | 2024.10.12 |  杨阿婷   |   Semi-Supervised Cross-Site Continual Segmentation   | [ DC2T: Disentanglement-Guided Consolidation and Consistency Training for Semi-Supervised Cross-Site Continual Segmentation (*TMI 2024*)](https://ieeexplore.ieee.org/document/10697209)   | [slides](./PPT/2024-10-12-yat.pptx) 
