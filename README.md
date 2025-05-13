@@ -1,4 +1,4 @@
-# Guideline:
+![image](https://github.com/user-attachments/assets/03fbd417-85d4-471c-b3bf-06c07d0f33df)![image](https://github.com/user-attachments/assets/88716f5a-2e81-44e5-978b-1fe3ebb770c3)![image](https://github.com/user-attachments/assets/05d1889f-00fb-45bf-b56b-cd1f60d0bdca)# Guideline:
 
 - Paper reading讲解的时候要深入浅出，确保自己看懂了，再用通俗的话讲出来让听者听懂。关键是把文章工作讲清楚，包括背景，研究现状，motivation，方法，实验是否支撑，该工作的优点和缺点，对你个人工作的启发。最重要的是后面两部分，需要你自己对工作批判性的阅读。
 - 听希望都能够提前把分享的paper进行相关背景的了解，积极提出问题及参与讨论。
@@ -6,6 +6,7 @@
 
 | Date       | Speaker | Theme                                           | Paper                                                                                                                                                                     |PPT        |
 | ---------- | :-----: | ----------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
+| 2025.05.12 |  简向坤   | Layer-Wise Adaptation | [Surgical Fine-Tuning Improves Adaptation to Distributions Shifts (*ICML 2023*)](https://arxiv.org/pdf/2210.11466)  ) | [slides](./PPT/jxk_20250512.pptx) |
 | 2025.04.26 |  邓恒章   | Multimodal fusion | [MoME: Mixture of Multimodal Experts for Cancer Survival Prediction (*MICCAI 2024*)](https://arxiv.org/pdf/2406.09696)) | [slides](./PPT/2025-4-26-dhz.pptx) |
 | 2025.04.19 |  刘意爽   | Semi-supervised Multimodal Medical Image Segmentation | [Robust Semi-supervised Multimodal Medical Image Segmentation via Cross Modality Collaboration（*MICCAI 2024*）](https://papers.miccai.org/miccai-2024/662-Paper2001.html)) | [slides](./PPT/2025-04-19_lys.pptx) |
 | 2025.04.12 |  郭熊   | co-currence on concept learn | [Separate and Conquer: Decoupling Co-occurrence via Decomposition and Representation for Weakly Supervised Semantic Segmentation](https://openaccess.thecvf.com/content/CVPR2024/papers/Yang_Separate_and_Conquer_Decoupling_Co-occurrence_via_Decomposition_and_Representation_for_CVPR_2024_paper.pdf) & [On the Concept Trustworthiness in Concept Bottleneck Models](https://arxiv.org/pdf/2403.14349) | [slides](./PPT/2025-4-12-yj.pptx) |
