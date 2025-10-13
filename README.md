@@ -6,8 +6,7 @@
 
 | Date       | Speaker | Theme                                           | Paper                                                                                                                                                                     |PPT        |
 | ---------- | :-----: | ----------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
-| 2025.09.20 |  张家森   | concept learning | [Interpretable Image Classification via Non-parametric Part Prototype Learning(*CVPR 2025*)]
-(https://arxiv.org/pdf/2503.10247) | [slides](./PPT/2025-9-20-zjs.pptx) |
+| 2025.09.20 |  张家森   | Multimodal Fusion | [Interpretable Image Classification via Non-parametric Part Prototype Learning(*CVPR 2025*)](https://arxiv.org/pdf/2503.10247) | [slides](./PPT/2025-9-20-zjs.pptx) |
 | 2025.06.21 |  邓恒章   | Multimodal Fusion | [GeminiFusion: Efficient Pixel-wise Multimodal Fusion for Vision Transformer(*ICML 2024*)](https://dl.acm.org/doi/10.5555/3692070.3692943) | [slides](./PPT/2025-6-21-dhz.pptx) |
 | 2025.06.18 |  郭熊   | Prompt Learning | [TextRefiner: Internal Visual Feature as Efficient Refiner for Vision-Language Models Prompt Tuning(*AAAI 2025*)](https://arxiv.org/pdf/2412.08176)) | [slides](./PPT/2025-6-14-gx.pptx) |
 | 2025.06.07 |  张津华   | Modality Missingness | [Meta-Learned Modality-Weighted Knowledge Distillation for Robust  Multi-Modal Learning with Missing Data](https://arxiv.org/abs/2405.07155)) | [slides](./PPT/2025-5.24_Zjh.pptx) |
