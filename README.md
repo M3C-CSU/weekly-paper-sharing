@@ -6,8 +6,8 @@
 
 | Date       | Speaker | Theme                                           | Paper                                                                                                                                                                     |PPT        |
 | ---------- | :-----: | ----------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
-| 2026.5.16 | 郭熊  |Zero-shot| [(Beyond Heuristic Prompting: A Concept-Guided Bayesian Framework for
-Zero-Shot Image Recognition)](https://openaccess.thecvf.com/content/CVPR2026/papers/Liu_Beyond_Heuristic_Prompting_A_Concept-Guided_Bayesian_Framework_for_Zero-Shot_Image_CVPR_2026_paper.pdf) | [slides](./PPT/2026-05-16-zwg.pptx) |
+| 2026.5.16 | 郭熊  |Zero-shot| [Beyond Heuristic Prompting: A Concept-Guided Bayesian Framework for
+Zero-Shot Image Recognition](https://openaccess.thecvf.com/content/CVPR2026/papers/Liu_Beyond_Heuristic_Prompting_A_Concept-Guided_Bayesian_Framework_for_Zero-Shot_Image_CVPR_2026_paper.pdf) | [slides](./PPT/2026-05-16-zwg.pptx) |
 | 2026.5.16 |  赵维贵  |Infrared Small Target Detection| [Seeing Through the Noise: Improving Infrared Small Target Detection and Segmentation from Noise Suppression Perspective(*CVPR 2026*)](https://arxiv.org/pdf/2508.06878) | [slides](./PPT/2026-05-16-zwg.pptx) |
 | 2026.5.9 |  马天一  |Zero-shot Learning，Vision-Language Models| [MedCLIP-SAMv2: Towards Universal Text-Driven Medical Image Segmentation(*Medical Image Analysis 2025*)](https://arxiv.org/pdf/2409.19483?) | [slides](./PPT/2026-5-9-mty.pptx) |
 | 2026.5.9 |  秦佳瑶  |Continual Test-Time Adaptation| [Diffusion-calibrated Continual Test-time Adaptation(*AAAI 2026*)](https://ojs.aaai.org/index.php/AAAI/article/view/39989) | [slides](./PPT/2026-5-9-qjy.pptx) |
